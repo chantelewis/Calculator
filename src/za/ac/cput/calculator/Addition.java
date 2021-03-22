@@ -6,11 +6,14 @@
 package za.ac.cput.calculator;
 
 /**
- *
+ * this is my play ground
  * @author LilMinx
  */
 public class Addition {
     public static int intergerSum(int a,int b){
+        return a + b;
+    }
+    public static double doubleSum(double a,double b){
         return a + b;
     }
 }
